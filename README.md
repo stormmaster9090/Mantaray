@@ -1,6 +1,7 @@
 # Mantaray
-Mantaray is a UI creation tool for Roblox Studio plugins.
-Mantaray is based off of an older less optimised kit called Lithium, this kit is unfinished but is still available for you to check out or download from my repos.
+Mantaray is my newest devlopment of my older Lithium Roblox UI kit. It includes everything needed to make plugins and test gui for your game.
+Mantaray comes in 2 packages, Mantaray S and Mantaray, Mantaray S is simpler (not released yet)
 
-Please read the instruction guide to understand Mantaray.
-Mantaray will NOT work outside of plugins as it calls multiple functions that are only acessible when the script is set to plugin.
+## INSTALLATION
+Download mantaray from the release package or from copying the modules in SRC
+
